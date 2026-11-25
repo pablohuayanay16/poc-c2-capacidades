@@ -1,4 +1,4 @@
-import { pool } from '../../db.js';
+import { pool } from '../db.js';
 import express from 'express';
 
 export const router = express.Router();
